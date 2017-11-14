@@ -17,7 +17,7 @@ relative: ./
 <dl>
 
 <dt>2017/11/14</dt>
-<dd><a href="./game/amedama/index.html">あめだまシューティング</a>を公開しました。</dd>
+<dd><a href="./game/amedama/">あめだまシューティング</a>を公開しました。</dd>
 
 <dt>2017/11/14</dt>
 <dd>HPを移転しました。</dd>

@@ -7,8 +7,8 @@ relative: ../../
 <div class="main">
 
 <p class="bread">
-<a href="../../index.html">TOP</a>
-　＞　<a href="../index.html">ゲーム紹介</a>
+<a href="../../">TOP</a>
+　＞　<a href="../">ゲーム紹介</a>
 　＞　あめだまシューティング
 </p>
 
