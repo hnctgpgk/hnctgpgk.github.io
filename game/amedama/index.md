@@ -1,0 +1,117 @@
+---
+layout: default
+title: あめだまシューティング - 函館高専ゲームプログラミング研究会
+relative: ../../
+---
+<div class="content">
+<div class="main">
+
+<p class="bread">
+<a href="../../index.html">TOP</a>
+　＞　<a href="../index.html">ゲーム紹介</a>
+　＞　あめだまシューティング
+</p>
+
+<p class="title">
+あめだまシューティング
+</p>
+					
+<p>
+通称あめだまと呼ばれるものを3つくっつけると消える！
+<br>
+癒し系？のゲーム。高得点を取ってみんなに自慢しよう。
+</p>
+
+<p>
+【ゲーム画面】
+</p>
+
+<p>
+<img alt="スクリーンショット" src="./ss1.jpg">
+</p>
+
+<p>
+<img alt="スクリーンショット" src="./ss2.jpg">
+</p>
+
+<p>
+【操作方法】
+</p>
+
+<p>
+マウスのみ
+<br>
+本作品では、ゲームスタートからゲームオーバー、リスタートまですべてマウスで操作可能です。
+<br>
+キーボードは一切使用しません。
+<br>
+</p>
+
+<p>
+【動作環境】
+</p>
+
+<p>
+Windows8.1, Windows10, Ubuntu16.04での動作を確認しています。
+</p>
+
+<p>
+【ダウンロード】
+</p>
+
+<p>
+Windows版、Ubuntu版、ソースコード (最終更新日 2017/11/14)
+</p>
+
+<p>
+【免責事項】
+</p>
+
+<p>
+作者及び各リソースの制作者はこのゲームの利用により生じたいかなるトラブルや損害・損失に対し一切の責任を負いません。
+</p>
+
+<p>
+【クレジット、ライセンス】
+</p>
+
+<p>
+・ソースコード
+<br>
+Copyright (c) 2017 metal rad, hnctgpgk All Rights Reserved.
+<br>
+ライセンス: Apache License 2.0
+</p>
+
+<p>
+・画像
+<br>
+Copyright (c) 2017 metal rad All Rights Reserved.
+<br>
+ライセンス: CC-BY
+</p>
+
+<p>
+・フォント、音楽は以下のサイトの素材を使用させて頂いております。
+</p>
+
+<p>
+敬称略
+<br>
+<a href="http://tanukifont.com">たぬきフォント</a>
+<br>
+<a href="http://amachamusic.chagasi.com/">甘茶の音楽工房</a>
+<br>
+<a href="https://maoudamashii.jokersounds.com/">魔王魂</a>
+<br>
+<a href="https://pocket-se.info">ポケットサウンド</a>
+<br>
+<a href="https://soundeffect-lab.info/">効果音ラボ</a>
+</p>
+
+<p>
+素材について詳細は<a href="./ReadMe.txt">こちら</a>を参照してください。
+</p>
+
+</div>
+</div>
