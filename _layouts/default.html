@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0">
+<link rel="stylesheet" href="{{ page.relative }}theme/main.css">
+<title>{{ page.title }}</title>
+</head>
+<body>
+
+<div class="container">
+
+<header>
+{{ site.title }}
+</header>
+
+<div class="main">
+
+{% include side.html %}
+
+<div class="wrap-right">
+{{ content }}
+</div>
+
+</div>
+
+<footer>
+{{ site.copyright }}
+</footer>
+
+</div>
+
+</body>
+</html>
