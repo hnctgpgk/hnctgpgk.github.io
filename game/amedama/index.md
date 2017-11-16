@@ -52,7 +52,7 @@ relative: ../../
 </p>
 
 <p>
-Windows8.1, Windows10, Ubuntu16.04での動作を確認しています。
+Windows8.1, Windows10, Ubuntu16.04 (全て64bit版)での動作を確認しています。
 </p>
 
 <p>
@@ -60,7 +60,7 @@ Windows8.1, Windows10, Ubuntu16.04での動作を確認しています。
 </p>
 
 <p>
-Windows版、Ubuntu版、ソースコード (最終更新日 2017/11/14)
+準備中
 </p>
 
 <p>
