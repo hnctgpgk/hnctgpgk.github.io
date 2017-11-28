@@ -22,9 +22,8 @@ relative: ../../
 癒し系？のゲーム。高得点を取ってみんなに自慢しよう。
 </p>
 
-<p>
-【ゲーム画面】
-</p>
+<hr>
+<h2>ゲーム画面</h2>
 
 <p>
 <img alt="スクリーンショット" src="./ss1.jpg">
@@ -34,9 +33,8 @@ relative: ../../
 <img alt="スクリーンショット" src="./ss2.jpg">
 </p>
 
-<p>
-【操作方法】
-</p>
+<hr>
+<h2>操作方法</h2>
 
 <p>
 マウスのみ
@@ -47,33 +45,32 @@ relative: ../../
 <br>
 </p>
 
-<p>
-【動作環境】
-</p>
+<hr>
+<h2>動作環境</h2>
 
 <p>
 Windows8.1, Windows10, Ubuntu16.04 (全て64bit版)での動作を確認しています。
 </p>
 
-<p>
-【ダウンロード】
-</p>
+<hr>
+<h2>ダウンロード</h2>
 
 <p>
-準備中
+<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=912fcc05-4537-4a2d-9098-ce81e9b38392&viewtype=detail">Windows版 （最終更新日 2017/10/27) </a> 
+</p>
+<p>
+<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=06002405-eef5-4cee-8fbe-27aea31c9195&viewtype=detail">Linux版 （最終更新日 2017/10/27)</a>
 </p>
 
-<p>
-【免責事項】
-</p>
+<hr>
+<h2>免責事項</h2>
 
 <p>
 作者及び各リソースの制作者はこのゲームの利用により生じたいかなるトラブルや損害・損失に対し一切の責任を負いません。
 </p>
 
-<p>
-【クレジット、ライセンス】
-</p>
+<hr>
+<h2>クレジット、ライセンス</h2>
 
 <p>
 ・ソースコード

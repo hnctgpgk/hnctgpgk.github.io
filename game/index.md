@@ -35,7 +35,7 @@ relative: ../
 <a href="./fxb/">
 Fixed Battery
 <br>
-<img src="./fxb/ss.png" width="200">
+<img src="./fxb/ss1.png" width="200">
 </a>
 <br>
 ゲームパッドやマウスで砲台を操作して敵を撃つシューティングゲーム
@@ -45,7 +45,7 @@ Fixed Battery
 <a href="./bird2016/">
 BIRD WATCH 2016
 <br>
-<img src="./bird2016/ss.png" width="200">
+<img src="./bird2016/ss1.png" width="200">
 </a>
 <br>
 あの名作ゲームが最新鋭の技術で帰ってきた。ダンドラ星を奪還せよ！ 
