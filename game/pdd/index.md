@@ -1,0 +1,47 @@
+---
+layout: default
+title: Puzzle＆Defence＆Dragons - 函館高専ゲームプログラミング研究会
+relative: ../../
+---
+<div class="content">
+<div class="main">
+
+<p class="bread">
+<a href="../../">TOP</a>
+　＞　<a href="../">ゲーム紹介</a>
+　＞　Puzzle＆Defence＆Dragons
+</p>
+
+<p class="title">
+Puzzle＆Defence＆Dragons
+</p>
+
+<p>
+2013年度高専祭で発表したパズルゲームです。
+</p>
+
+<hr>
+<h2>スクリーンショット</h2>
+
+<img src="./ss1.png">
+<br>
+<img src="./ss2.png">
+<br>
+<img src="./ss3.png">
+
+<hr>
+<h2>対応プラットフォーム</h2>
+
+<p>
+対応プラットフォーム： Windows7以降
+</p>
+
+<hr>
+<h2>ダウンロード</h2>
+
+<p>
+<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=78325a00-ef66-4d38-96d6-93c4a46b435b&viewtype=detail">ダウンロード（最終更新日 2014/4/13）</a>
+</p>
+
+</div>
+</div>
