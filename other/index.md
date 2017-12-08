@@ -58,6 +58,14 @@ relative: ../
 <a href="./poster/2015.png">2015年度新人募集ポスター</a>
 </dd>
 
+<dt>ライセンス</dt>
+
+<dd>
+<a href="./HGPKLv1.html">函館高専ゲームプログラミング研究会ライセンス条項(HGPKL), Version 1</a>
+<br>
+<a href="./HGPKLv2.html">函館高専ゲームプログラミング研究会ライセンス条項(HGPKL), Version 2</a>
+</dd>
+
 </dl>
 
 </div>
