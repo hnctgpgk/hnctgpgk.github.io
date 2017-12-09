@@ -62,6 +62,10 @@ Windows8.1, Windows10, Ubuntu16.04 (全て64bit版)での動作を確認して�
 <a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=06002405-eef5-4cee-8fbe-27aea31c9195&viewtype=detail">Linux版 （最終更新日 2017/10/27)</a>
 </p>
 
+<p>
+<a href="https://github.com/hnctgpgk/Amedama">ソース</a>
+</p>
+
 <hr>
 <h2>免責事項</h2>
 
@@ -107,7 +111,7 @@ Copyright (c) 2017 metal rad All Rights Reserved.
 </p>
 
 <p>
-素材について詳細は<a href="./ReadMe.txt">こちら</a>を参照してください。
+素材について詳細は<a href="https://github.com/hnctgpgk/Amedama">こちらの下にあるマニュアル</a>を参照してください。
 </p>
 
 </div>
