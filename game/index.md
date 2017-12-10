@@ -32,6 +32,16 @@ relative: ../
 <dt>2016年度作品</dt>
 
 <dd>
+<a href="./fishing/">
+Strange Fishing
+<br>
+<img src="./fishing/ss1.png" width="200">
+</a>
+<br>
+対魚型侵攻者用個人兵器を手に魚型侵攻者に抗うゲーム
+</dd>
+
+<dd>
 <a href="./fxb/">
 Fixed Battery
 <br>
