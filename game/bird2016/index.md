@@ -61,7 +61,7 @@ BIRD WATCH 2016
 <h2>対応プラットフォーム</h2>
 
 <p>
-本ソフトウェアは、Windows10での動作を保障します。
+本ソフトウェアは、Windows10、Ubuntu16.04 (64bit版)での動作を保障します。
 </p>
 
 <hr>
@@ -69,6 +69,30 @@ BIRD WATCH 2016
 
 <p>
 <a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=1293a6f7-3bcc-424d-ae3a-d2d54e314ce3&viewtype=detail">ダウンロード（最終更新日 2016/11/22) </a>
+</p>
+
+<p>
+<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=f4ddb6cd-88f5-4b06-8bb1-9c4f211c15cf&viewtype=detail">Linux版 （最終更新日 2016/11/22)</a>
+</p>
+
+<p>
+<a href="https://github.com/hnct12335/BirdWatch">ソース</a>
+</p>
+
+<hr>
+<h2>免責事項</h2>
+
+<p>
+作者及び各リソースの制作者はこのゲームの利用により生じたいかなるトラブルや損害・損失に対し一切の責任を負いません。
+</p>
+
+<hr>
+<h2>クレジット、ライセンス</h2>
+
+<p>
+Copyright (c) 2017 hnct12335 All Rights Reserved.
+<br>
+ライセンス: Apache License 2.0
 </p>
 
 
