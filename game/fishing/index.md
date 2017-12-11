@@ -39,7 +39,11 @@ Strange Fishing
 <h2>操作方法</h2>
 
 <p>
-準備中
+タイミングよくキーを押して魚を捕まえよう<br>
+上の魚はWキー<br>
+真ん中の魚はSキー<br>
+下の魚はXキー<br>
+でそれぞれ捕まえるよ<br>
 </p>
 
 <hr>
@@ -53,10 +57,10 @@ Windows10, Ubuntu16.04 (全て64bit版)での動作を確認しています。
 <h2>ダウンロード</h2>
 
 <p>
-Windows版 （最終更新日 2017/12/xx)
+<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=0911ad8f-2f8e-4916-ace2-1a34d0bab5f7&viewtype=detail">Windows版 （最終更新日 2017/10/04)</a>
 </p>
 <p>
-Linux版 （最終更新日 2017/12/xx)
+<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=fd1b41f9-01eb-4a45-a644-b08899465c6f&viewtype=detail">Linux版 （最終更新日 2017/10/04)</a>
 </p>
 
 <hr>
