@@ -20,6 +20,16 @@ relative: ../
 <dt>2017年度作品</dt>
 
 <dd>
+<a href="./black/">
+The Black
+<br>
+<img src="./black/ss1.png" width="200">
+</a>
+<br>
+迫りくる悪を払いのけて地球を救うシューティングゲーム
+</dd>
+
+<dd>
 <a href="./amedama/">
 あめだまシューティング
 <br>
