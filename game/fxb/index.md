@@ -46,11 +46,32 @@ Fixed Battery
 <h3>-動作環境-</h3>
 
 <p>
-Windows8.1, Windows10での動作を確認しています。
+Windows8.1, Windows10, Ubuntu16.04 (64bit版)での動作を確認しています。
 </p>
 
 <hr>
-<h3>-クレジット-</h3>
+<h3>-ダウンロード-</h3>
+
+<p>
+<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=4cf50e45-d5c7-4d3d-a85d-74e32b3d74b8&viewtype=detail">Windows版 ダウンロード（最終更新日 2016/10/19) </a>
+</p>
+
+<p>
+<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=44f7f7ec-020d-4e8e-b81c-e4a2b761fc67&viewtype=detail">Linux版 ダウンロード（最終更新日 2016/10/19) </a>
+</p>
+
+<hr>
+<h3>-クレジット、ライセンス-</h3>
+
+<p>
+Copyright (c) 2016 hoge, hoge All Rights Reserved.
+<br>
+ライセンス: <a href="../../other/HGPKLv1.html">HGPKL, Version 1</a>
+</p>
+
+<p>
+音楽は以下のサイトの素材を使用させて頂いております。
+</p>
 
 <p>敬称略</p>
 <ul>
@@ -58,13 +79,6 @@ Windows8.1, Windows10での動作を確認しています。
 <li><a href="http://www.tam-music.com/">TAM Music Factory</a></li>
 <li><a href="http://www.hmix.net/">H/MIX GALLERY</a></li>
 </ul>
-
-<hr>
-<h3>-ダウンロード-</h3>
-
-<p>
-<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=4cf50e45-d5c7-4d3d-a85d-74e32b3d74b8&viewtype=detail">ダウンロード（最終更新日 2016/10/19) </a>
-</p>
 
 </div>
 </div>
