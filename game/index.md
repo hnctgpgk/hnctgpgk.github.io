@@ -20,6 +20,16 @@ relative: ../
 <dt>2017年度作品</dt>
 
 <dd>
+<a href="./bird2017/">
+BIRD WATCH 2017
+<br>
+<img src="./bird2017/ss2.png" width="200">
+</a>
+<br>
+今年もあの名作ゲームが帰ってきた。ダンドラ星を奪還せよ！ 
+</dd>
+
+<dd>
 <a href="./black/">
 The Black
 <br>

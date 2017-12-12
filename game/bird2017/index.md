@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BIRD WATCH 2016 - 函館高専ゲームプログラミング研究会
+title: BIRD WATCH 2017 - 函館高専ゲームプログラミング研究会
 relative: ../../
 ---
 <div class="content">
@@ -9,28 +9,19 @@ relative: ../../
 <p class="bread">
 <a href="../../">TOP</a>
 　＞　<a href="../">ゲーム紹介</a>
-　＞　BIRD WATCH 2016
+　＞　BIRD WATCH 2017
 </p>
 
 <p class="title">
-BIRD WATCH 2016
+BIRD WATCH 2017
 </p>
-
-<div class="center">
-<br>
-<img src="./ss1.png">
-<p style="color:#FF00FF;font-size:20px;">
-<b>
-あの名作ゲームが最新鋭の技術で帰ってきた。<br>
-ダンドラ星を奪還せよ！
-</b>
-</p>
-</div>
-
-<h2>取り扱い説明</h2>
 
 <p>
-このソフトは、Unityで制作されたゲームです。C#で制作されたされた<a href="../bird/">『BIRD WATCH』</a>をアレンジして収録しています。
+このソフトは、Unityで制作されたゲームです。
+<br>
+<a href="../bird/">『BIRD WATCH』</a>・<a href="../bird2016/">『BIRD WATCH 2016』</a>をアレンジして収録しています。
+<br>
+平成29年度1年生部員がBGMやSEを加えた2017年版BIRD WATCHになります。
 </p>
 
 <hr>
@@ -49,34 +40,48 @@ BIRD WATCH 2016
 </p>
 
 <hr>
+<h2>ゲーム画面</h2>
+
+<p>
+<img alt="スクリーンショット" src="./ss1.png">
+</p>
+
+<p>
+<img alt="スクリーンショット" src="./ss2.png">
+</p>
+
+<p>
+<img alt="スクリーンショット" src="./ss3.png">
+</p>
+
+<hr>
 <h2>基本操作</h2>
 
 <p>
 ■キーボード<br>
 矢印キー：キャラクターの移動<br>
-スペースキー：球の発射<br>
 </p>
 
+
 <hr>
-<h2>対応プラットフォーム</h2>
+<h2>動作環境</h2>
 
 <p>
-本ソフトウェアは、Windows10、Ubuntu16.04 (64bit版)での動作を保障します。
+Windows10, Ubuntu16.04 (全て64bit版)での動作を確認しています。
 </p>
 
 <hr>
 <h2>ダウンロード</h2>
 
 <p>
-<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=1293a6f7-3bcc-424d-ae3a-d2d54e314ce3&viewtype=detail">ダウンロード（最終更新日 2016/11/22) </a>
+Windows版 （最終更新日 2017/12/xx)
+</p>
+<p>
+Linux版 （最終更新日 2017/12/xx)
 </p>
 
 <p>
-<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=f4ddb6cd-88f5-4b06-8bb1-9c4f211c15cf&viewtype=detail">Linux版 （最終更新日 2016/11/22)</a>
-</p>
-
-<p>
-<a href="https://github.com/hnct12335/BirdWatch">ソース</a>
+ソース
 </p>
 
 <hr>
@@ -90,11 +95,22 @@ BIRD WATCH 2016
 <h2>クレジット、ライセンス</h2>
 
 <p>
-Copyright (c) 2016 hnct12335 All Rights Reserved.
+Copyright (c) 2016-2017 hnct12335, hoge, hoge, hoge  All Rights Reserved.
 <br>
 ライセンス: Apache License 2.0
 </p>
 
+<p>
+・音楽は以下のサイトの素材を使用させて頂いております。
+</p>
+
+<p>
+BGM: <a href="https://maoudamashii.jokersounds.com/">魔王魂</a>様のサイトより<a href="https://maoudamashii.jokersounds.com/list/bgm11.html">8bit25</a>
+</p>
+
+<p>
+効果音(鳴き声): 
+</p>
 
 </div>
 </div>
