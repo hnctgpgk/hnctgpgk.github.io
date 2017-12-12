@@ -74,10 +74,10 @@ Windows10, Ubuntu16.04 (全て64bit版)での動作を確認しています。
 <h2>ダウンロード</h2>
 
 <p>
-Windows版 （最終更新日 2017/12/xx)
+<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=9ddb940e-f661-4569-b41a-da46911ae87f&viewtype=detail">Windows版 （最終更新日 2017/10/28)</a>
 </p>
 <p>
-Linux版 （最終更新日 2017/12/xx)
+<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=990b0fb1-6141-4a0e-8aa2-3f10553be36a&viewtype=detail">Linux版 （最終更新日 2017/10/28)</a>
 </p>
 
 <p>
@@ -101,7 +101,7 @@ Copyright (c) 2016-2017 hnct12335, hoge, hoge, hoge  All Rights Reserved.
 </p>
 
 <p>
-・音楽は以下のサイトの素材を使用させて頂いております。
+音楽は以下のサイトの素材を使用させて頂いております。
 </p>
 
 <p>
@@ -109,7 +109,7 @@ BGM: <a href="https://maoudamashii.jokersounds.com/">魔王魂</a>様のサイ�
 </p>
 
 <p>
-効果音(鳴き声): 
+SE: <a href="https://soundeffect-lab.info/">効果音ラボ</a>様のサイトより<a href="https://soundeffect-lab.info/sound/animal/">ニワトリの鳴き声</a>
 </p>
 
 </div>
