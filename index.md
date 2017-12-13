@@ -16,6 +16,10 @@ relative: ./
 
 <dl>
 
+
+<dt>2017/12/13</dt>
+<dd><a href="./game/fishing/">Strange Fishing</a>を公開しました。</dd>
+
 <dt>2017/11/14</dt>
 <dd><a href="./game/amedama/">あめだまシューティング</a>を公開しました。</dd>
 

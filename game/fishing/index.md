@@ -67,7 +67,7 @@ Windows10, Ubuntu16.04 (全て64bit版)での動作を確認しています。
 <h2>クレジット、ライセンス</h2>
 
 <p>
-Copyright (c) 2016 hoge, hoge All Rights Reserved.
+Copyright (c) 2016-2017 川崎、高橋、松下 All Rights Reserved.
 <br>
 ライセンス: <a href="../../other/HGPKLv1.html">HGPKL, Version 1</a>
 </p>
