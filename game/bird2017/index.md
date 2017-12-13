@@ -81,7 +81,7 @@ Windows10, Ubuntu16.04 (全て64bit版)での動作を確認しています。
 </p>
 
 <p>
-ソース
+<a href="https://github.com/hnctgpgk/BirdWatch2017">ソース</a>
 </p>
 
 <hr>
