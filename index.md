@@ -17,6 +17,9 @@ relative: ./
 <dl>
 
 
+<dt>2017/12/14</dt>
+<dd><a href="./game/hajiotu/">はじめてのお使いを邪魔するゲーム</a>を公開しました。</dd>
+
 <dt>2017/12/13</dt>
 <dd><a href="./game/fishing/">Strange Fishing</a>を公開しました。</dd>
 

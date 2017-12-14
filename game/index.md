@@ -20,6 +20,16 @@ relative: ../
 <dt>2017年度作品</dt>
 
 <dd>
+<a href="./hajiotu/">
+はじめてのお使いを邪魔するゲーム
+<br>
+<img src="./hajiotu/ss1.png" width="200">
+</a>
+<br>
+妹のはじめてのお使いを邪魔するゲーム
+</dd>
+
+<dd>
 <a href="./bird2017/">
 BIRD WATCH 2017
 <br>
