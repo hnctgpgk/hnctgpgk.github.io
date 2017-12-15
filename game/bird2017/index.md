@@ -95,7 +95,10 @@ Windows10, Ubuntu16.04 (全て64bit版)での動作を確認しています。
 <h2>クレジット、ライセンス</h2>
 
 <p>
-Copyright (c) 2016-2017 hnct12335, hoge, hoge, hoge  All Rights Reserved.
+Copyright (c) 2016-2017 hnct12335, 中村, 高橋, 瀧川  All Rights Reserved.
+
+
+
 <br>
 ライセンス: Apache License 2.0
 </p>

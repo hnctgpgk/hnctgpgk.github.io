@@ -61,19 +61,11 @@ Windows10, Ubuntu16.04 (全て64bit版)での動作を確認しています。
 <h2>クレジット、ライセンス</h2>
 
 <p>
-Copyright (c) 2017 hoge, hoge All Rights Reserved.
+Copyright (c) 2017 Mr.Y All Rights Reserved.
 <br>
 ライセンス: <a href="../../other/HGPKLv1.html">HGPKL, Version 1</a>
 </p>
 
-<p>
-・音楽は以下のサイトの素材を使用させて頂いております。
-</p>
-
-<p>
-敬称略
-<br>
-</p>
 
 </div>
 </div>
