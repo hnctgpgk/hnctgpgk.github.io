@@ -17,6 +17,10 @@ relative: ./
 <dl>
 
 
+<dt>2017/12/15</dt>
+<dd><a href="./game/bird2017/">BIRD WATCH 2017</a>を公開しました。<br>
+<a href="./game/black/">The Black</a>を公開しました。</dd>
+
 <dt>2017/12/14</dt>
 <dd><a href="./game/hajiotu/">はじめてのお使いを邪魔するゲーム</a>を公開しました。</dd>
 
