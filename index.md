@@ -4,7 +4,7 @@ title: Top - 函館高専ゲームプログラミング研究会
 relative: ./
 ---
 <div class="top_image">
-<img src="./img/top20170512.png" alt="TOPイラスト"/>
+<img src="./img/top20180105.png" alt="TOPイラスト"/>
 </div>
 
 <div class="content">
@@ -16,6 +16,9 @@ relative: ./
 
 <dl>
 
+
+<dt>2018/1/5</dt>
+<dd>TOPイラストを更新しました。</dd>
 
 <dt>2017/12/15</dt>
 <dd><a href="./game/bird2017/">BIRD WATCH 2017</a>を公開しました。<br>
