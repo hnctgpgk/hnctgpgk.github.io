@@ -16,6 +16,8 @@ relative: ./
 
 <dl>
 
+<dt>2018/3/22</dt>
+<dd><a href="./about/">About</a>の活動内容を更新しました。</dd>
 
 <dt>2018/1/5</dt>
 <dd>TOPイラストを更新しました。</dd>
