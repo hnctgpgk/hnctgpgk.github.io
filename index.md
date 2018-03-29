@@ -16,6 +16,9 @@ relative: ./
 
 <dl>
 
+<dt>2018/3/27</dt>
+<dd>学校のHPに部員が参加した<a href="http://www.hakodate-ct.ac.jp/news/15633.html">日本タイ国際ハッカソン</a>の記事が掲載されました(クリックすると他のサイトにジャンプします)。</dd>
+
 <dt>2018/3/22</dt>
 <dd><a href="./about/">About</a>の活動内容を更新しました。</dd>
 
