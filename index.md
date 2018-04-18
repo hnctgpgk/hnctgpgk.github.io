@@ -16,6 +16,9 @@ relative: ./
 
 <dl>
 
+<dt>2019/4/18</dt>
+<dd><a href="./other/">Other</a>に<a href="./other/poster/2018.png">2018年度新人募集ポスター</a>を追加しました。</dd>
+
 <dt>2018/4/12</dt>
 <dd>
 第二回新入生向け説明会を開催します。
