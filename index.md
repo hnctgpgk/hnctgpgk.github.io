@@ -16,6 +16,9 @@ relative: ./
 
 <dl>
 
+<dt>2018/5/14</dt>
+<dd>部員が itch.io で <a href="https://takotubo15679.itch.io/swing-bye/">Swing Bye</a> を公開しました(クリックすると別サイトにジャンプします)。</dd>
+
 <dt>2018/4/18</dt>
 <dd><a href="./other/">Other</a>に<a href="./other/poster/2018.png">2018年度新人募集ポスター</a>を追加しました。</dd>
 
@@ -30,7 +33,6 @@ relative: ./
 <br>
 場所: H棟(情報棟) 4F、H407 情報処理実験室
 </dd>
-
 
 <dt>2018/4/9</dt>
 <dd>
