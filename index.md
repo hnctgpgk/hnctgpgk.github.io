@@ -16,6 +16,9 @@ relative: ./
 
 <dl>
 
+<dt>2018/5/24</dt>
+<dd><a href="./game/squidssumou/">Squid's Sumou</a>を公開しました。</dd>
+
 <dt>2018/5/14</dt>
 <dd>部員が itch.io で <a href="https://takotubo15679.itch.io/swing-bye/">Swing Bye</a> を公開しました(クリックすると別サイトにジャンプします)。</dd>
 

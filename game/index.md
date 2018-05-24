@@ -17,6 +17,18 @@ relative: ../
 
 <dl>
 
+<dt>2018年度作品</dt>
+
+<dd>
+<a href="./squidssumou/">
+Squid's Sumou
+<br>
+<img src="./squidssumou/ss1.png" width="200">
+</a>
+<br>
+イカ対イカの相撲バトル！！
+</dd>
+
 <dt>2017年度作品</dt>
 
 <dd>
@@ -36,7 +48,7 @@ BIRD WATCH 2017
 <img src="./bird2017/ss2.png" width="200">
 </a>
 <br>
-今年もあの名作ゲームが帰ってきた。ダンドラ星を奪還せよ！ 
+今年もあの名作ゲームが帰ってきた。ダンドラ星を奪還せよ！
 </dd>
 
 <dd>
@@ -88,7 +100,7 @@ BIRD WATCH 2016
 <img src="./bird2016/ss1.png" width="200">
 </a>
 <br>
-あの名作ゲームが最新鋭の技術で帰ってきた。ダンドラ星を奪還せよ！ 
+あの名作ゲームが最新鋭の技術で帰ってきた。ダンドラ星を奪還せよ！
 </dd>
 
 <dt>2015年度作品</dt>
