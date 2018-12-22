@@ -20,6 +20,16 @@ relative: ../
 <dt>2018年度作品</dt>
 
 <dd>
+<a href="./coin3/">
+Coin!×3
+<br>
+<img src="./coin3/ss1.png" width="200">
+</a>
+<br>
+敵にぶつからないようにしてコインを集めるゲーム
+</dd>
+
+<dd>
 <a href="./squidssumou/">
 Squid's Sumou
 <br>
