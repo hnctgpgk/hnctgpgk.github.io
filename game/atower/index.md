@@ -13,7 +13,7 @@ relative: ../../
 </p>
 
 <h1>
-<font color="red">Animal Tower</font>
+<span style="color:red">Animal Tower</span>
 </h1>
 
 <div class="atowerbox1">
@@ -31,14 +31,14 @@ relative: ../../
 <div class="atowerbox2">
 <span>POINT</span>
 <p>
-動物を落とせば落とすほど<font color="red">右上のスコアが増えていきます。</font><br>
+動物を落とせば落とすほど<span style="color:red">右上のスコアが増えていきます。</span><br>
 出来るだけたくさん積み上げていってください。<br>
 HighScoreを超えれば、随時更新されていきます。<br>
-<font color="red">土台から動物が落ちたらGAMEOVERとなり、タイトルに戻ります。</font><br>
+<span style="color:red">土台から動物が落ちたらGAMEOVERとなり、タイトルに戻ります。</span><br>
 タイトル画面ではスペースキー、ALTキー、Ctrlキーでもう一度ゲームを始めることができます<br>
 </p>
 <h1>
-<font color="red">動物をたくさん落として自分だけのHighScoreを目指してください。</font>
+<span style="color:red">動物をたくさん落として自分だけのHighScoreを目指してください。</span>
 </h1>
 </div>
 
@@ -61,7 +61,7 @@ ubuntu 18.04 (64bit版)
 <h2>ダウンロード</h2>
 
 <p>
-Windows版 (準備中)
+<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=495b628d-309e-412c-a9ad-346a33e67d7b&viewtype=detail">Windows版 （最終更新日 2018/12/22) </a>
 </p>
 
 <p>
