@@ -20,6 +20,16 @@ relative: ../
 <dt>2018年度作品</dt>
 
 <dd>
+<a href="./shx/">
+shooting-x
+<br>
+<img src="./shx/ss1.png" width="200">
+</a>
+<br>
+ドット絵風味の横スクロールSTG！
+</dd>
+
+<dd>
 <a href="./atower/">
 AnimalTower
 <br>
@@ -28,6 +38,7 @@ AnimalTower
 <br>
 動物を出来るだけたくさん積み上げるゲーム
 </dd>
+
 
 
 <dd>

@@ -18,6 +18,8 @@ relative: ./
 
 <dt>2018/12/22</dt>
 <dd>
+<a href="./game/shx/">shooting-x</a>を公開しました。
+<br>
 <a href="./game/atower/">AnimalTower</a>を公開しました。
 <br>
 <a href="./game/coin3/">Coin!×3</a>を公開しました。</dd>
