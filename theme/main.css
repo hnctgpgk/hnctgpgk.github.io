@@ -207,3 +207,29 @@ border: 1px solid #000000;
 td.center{
 text-align: center;
 }
+
+
+/*-------------------------
+個別指定
+--------------------------*/
+.atowerbox1{
+	float:left;
+	width :90%;
+	height :90%;
+	border-style:double;
+	border-color:#ff0000;
+	background-color:#ffff99;
+	border-radius:10px;
+	margin-bottom:10px
+}
+
+.atowerbox2{
+	float:left;
+	width :90%;
+	height :90%;
+	border-style:double;
+	border-color:#ff0000;
+	background-color:#ffff99;
+	border-radius:10px;
+	margin-bottom:10px
+}
