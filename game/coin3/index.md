@@ -99,11 +99,11 @@ ubuntu 18.04 (64bit版)
 </p>
 
 <p>
-Mac版 (準備中)
+<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=ed8d32f4-4cfb-4ec7-adde-c01a759ccca1&viewtype=detail">Mac版 （最終更新日 2018/12/22) </a>
 </p>
 
 <p>
-ubuntu版 (準備中)
+<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=1ea5ab8a-0cd5-4252-90e4-1a3004ec8689&viewtype=detail">ubuntu版 （最終更新日 2018/12/22) </a>
 </p>
 
 

@@ -65,11 +65,11 @@ ubuntu 18.04 (64bit版)
 </p>
 
 <p>
-Mac版 (準備中)
+<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=de04f30a-e2ae-4ae3-981c-15f8638e9f16&viewtype=detail">Mac版 （最終更新日 2018/12/22) </a>
 </p>
 
 <p>
-ubuntu版 (準備中)
+<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=69d66024-58ee-4ec9-8440-29cc75d2a7cc&viewtype=detail">ubuntu版 （最終更新日 2018/12/22) </a>
 </p>
 
 
