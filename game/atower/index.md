@@ -84,7 +84,7 @@ ubuntu 18.04 (64bit版)
 <h2>クレジット、ライセンス</h2>
 
 <p>
-Copyright (c) 2018, ？ All Rights Reserved.
+Copyright (c) 2018, アニマルタワー All Rights Reserved.
 <br>
 ライセンス: <a href="../../other/HGPKLv1.html">HGPKL, Version 1</a>
 </p>
