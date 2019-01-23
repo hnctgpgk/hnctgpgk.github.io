@@ -16,6 +16,11 @@ relative: ./
 
 <dl>
 
+<dt>2019/1/23</dt>
+<dd>
+<a href="./game/toj/">TREASURE OF THE JUNGLE</a>を公開しました。
+</dd>
+
 <dt>2018/12/22</dt>
 <dd>
 <a href="./game/shx/">shooting-x</a>を公開しました。

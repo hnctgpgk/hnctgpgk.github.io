@@ -9,3 +9,11 @@ sudo gem install bundler
 sudo gem install jekyll  
 sudo gem install minima  
 jekyll server  
+
+
+macOS に jekyll をインストールして実行
+
+sudo gem install bundler
+sudo gem install jekyll
+sudo gem install minima
+jekyll server

@@ -20,6 +20,16 @@ relative: ../
 <dt>2018年度作品</dt>
 
 <dd>
+<a href="./toj/">
+TREASURE OF THE JUNGLE
+<br>
+<img src="./toj/ss1.png" width="200">
+</a>
+<br>
+リクがジャングルを舞台にお宝探して走る3Dアクションゲーム
+</dd>
+
+<dd>
 <a href="./shx/">
 shooting-x
 <br>
