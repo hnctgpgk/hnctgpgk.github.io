@@ -53,6 +53,7 @@ relative: ../
 <dt>ポスター</dt>
 
 <dd>
+<a href="./poster/2019.png">2019年度新人募集ポスター</a><br>
 <a href="./poster/2018-alink.png">2018年度アカデミックリンク2018ブース展示ポスター</a><br>
 <a href="./poster/2018-kosensai.png">2018年度高専祭ポスター</a><br>
 <a href="./poster/2018.png">2018年度新人募集ポスター</a><br>
