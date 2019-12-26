@@ -17,6 +17,30 @@ relative: ../
 
 <dl>
 
+<dt>2019年度作品</dt>
+
+<dd>
+<a href="./teisatuki/">
+偵察機の災難 〜おぼえてろよ上層部〜
+<br>
+<img src="./teisatuki/ss1.png" width="200">
+</a>
+<br>
+敵の攻撃を避け続けるゲーム
+</dd>
+
+
+<dd>
+<a href="./through/">
+THROUGH
+<br>
+<img src="./through/ss1.png" width="200">
+</a>
+<br>
+イライラ棒みたいなゲーム
+</dd>
+
+
 <dt>2018年度作品</dt>
 
 <dd>
