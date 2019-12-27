@@ -59,8 +59,9 @@ Escキーでゲームを終了します。
 
 <p>
 Windows 10 (64 bit版)
-<br>
-ubuntu 18.04 (6 4bit版)
+</p>
+<p>
+ubuntu 18.04 (64 bit版)
 </p>
 
 <hr>
