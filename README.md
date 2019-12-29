@@ -1,6 +1,7 @@
 # 函館高専ゲームプログラミング研究会のホームページ
 
 メモ  
+
 ubuntu に jekyll をインストールして実行  
 
 sudo apt install ruby  
@@ -10,10 +11,9 @@ sudo gem install jekyll
 sudo gem install minima  
 jekyll server  
 
-
 macOS に jekyll をインストールして実行
 
-sudo gem install bundler
-sudo gem install jekyll
-sudo gem install minima
-jekyll server
+sudo gem install bundler  
+sudo gem install jekyll  
+sudo gem install minima   
+jekyll server  
