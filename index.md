@@ -4,7 +4,7 @@ title: Top - 函館高専ゲームプログラミング研究会
 relative: ./
 ---
 <div class="top_image">
-<img src="./img/top20180105.png" alt="TOPイラスト"/>
+<img src="./img/top20191229.png" alt="TOPイラスト"/>
 </div>
 
 <div class="content">
@@ -15,6 +15,12 @@ relative: ./
 </p>
 
 <dl>
+
+<dt>2019/12/29</dt>
+<dd>
+TOP画像を変更しました。
+</dd>
+
 
 <dt>2019/12/26</dt>
 <dd>
