@@ -67,6 +67,9 @@ relative: ../../
 スペースキー:スタート、リスタート
 </p>
 <p>
+Escキー:ゲーム終了
+</p>
+<p>
 スコア:画面左端　見にくくてゴメン！
 </p>
 <p>
@@ -80,15 +83,28 @@ relative: ../../
 <h2>～動作環境～</h2>
 
 <p>
-準備中
+Windows 10 (64 bit版)
+</p>
+<p>
+ubuntu 18.04 (64 bit版)
 </p>
 
 <hr>
 <h2>～ダウンロード～</h2>
 
 <p>
-準備中
+<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=74034453-cf97-4295-a8bf-b3892178df73&viewtype=detail">
+Windows版 （最終更新日 2020/1/11) </a>
 </p>
+
+<p>
+<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=255755df-a6f2-4839-903d-8b212c969451&viewtype=detail">
+ubuntu版 （最終更新日 2020/1/11) </a>
+</p>
+
+
+
+
 
 <hr>
 <h2>～免責事項～</h2>
