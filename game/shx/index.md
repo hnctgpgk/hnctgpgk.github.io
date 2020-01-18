@@ -41,6 +41,14 @@ shooting-x
 <img alt="スクリーンショット" src="./ss4.png">
 </p>
 
+<p>
+<img alt="スクリーンショット" src="./ss5.png">
+</p>
+
+<p>
+<img alt="スクリーンショット" src="./ss6.png">
+</p>
+
 <hr>
 <h2>操作方法</h2>
 
@@ -112,26 +120,26 @@ Windows、Linuxでは<a href="./shooting-x_manual.pdf">こちらのpdf</a>のよ
 <h2>動作環境</h2>
 
 <p>
-Windows10、macOS HighSierra、Linux（すべて64bit版）での動作を確認しています。
+Windows10, macOS Catalina, Ubuntu18.04 （すべて64bit版） での動作を確認しています。
 </p>
 
 <hr>
 <h2>ダウンロード</h2>
 
 <p>
-・高専祭2018/アカデミックリンク2018版
+・高専祭2019 版
 </p>
 
 <p>
-<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=780dfd31-8f93-40c0-bda3-1245e7c5003b&viewtype=detail">Windows版 （最終更新日 2018/12/22) </a>
+<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=341342ca-bff8-49fa-b302-6bb58eae7fc4&viewtype=detail">Windows版 （最終更新日 2020/1/18) </a>
 </p>
 
 <p>
-<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=5c60dbc1-b0ac-495a-a8f7-aff01b445d93&viewtype=detail">mac OS版 （最終更新日 2018/12/22) </a>
+<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=3544eab5-ab9f-4025-98af-a0ee219628a8&viewtype=detail">mac OS版 （最終更新日 2020/1/18) </a>
 </p>
 
 <p>
-<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=749b9bd9-97f7-4fd5-af64-080b052c8d6b&viewtype=detail">Linux版 （最終更新日 2018/12/22) </a>
+<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=b496da7f-2717-4fc8-923f-5e463175e6a5&viewtype=detail">Linux版 （最終更新日 2020/1/18) </a>
 </p>
 
 <hr>
@@ -145,7 +153,7 @@ Windows10、macOS HighSierra、Linux（すべて64bit版）での動作を確認
 <h2>クレジット、ライセンス</h2>
 
 <p>
-Copyright(C) 2018, 久米田 All Rights Reserved.
+Copyright(C) 2018-2020, 久米田 All Rights Reserved.
 <br>
 ライセンス: <a href="../../other/HGPKLv2.html">HGPKL, Version 2</a>
 </p>

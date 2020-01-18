@@ -16,6 +16,12 @@ relative: ./
 
 <dl>
 
+<dt>2020/1/18</dt>
+<dd>
+<a href="./game/shx/">shooting-x</a> (2019年度高専祭バージョン) を公開しました。
+</dd>
+
+
 <dt>2019/12/29</dt>
 <dd>
 TOP画像を変更しました。
