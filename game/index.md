@@ -20,6 +20,26 @@ relative: ../
 <dt>2019年度作品</dt>
 
 <dd>
+<a href="./sinkatori/">
+進化する鳥
+<br>
+<img src="./sinkatori/ss1.png" width="200">
+</a>
+<br>
+鳥が敵を倒して出てくるアイテムを集めて進化するゲーム
+</dd>
+
+<dd>
+<a href="./shx/">
+shooting-x (2019年度高専祭バージョン) 
+<br>
+<img src="./shx/ss1.png" width="200">
+</a>
+<br>
+ドット絵風味の横スクロールSTG！
+</dd>
+
+<dd>
 <a href="./teisatuki/">
 偵察機の災難 〜おぼえてろよ上層部〜
 <br>
@@ -28,7 +48,6 @@ relative: ../
 <br>
 敵の攻撃を避け続けるゲーム
 </dd>
-
 
 <dd>
 <a href="./through/">
@@ -51,16 +70,6 @@ TREASURE OF THE JUNGLE
 </a>
 <br>
 リクがジャングルを舞台にお宝探して走る3Dアクションゲーム
-</dd>
-
-<dd>
-<a href="./shx/">
-shooting-x
-<br>
-<img src="./shx/ss1.png" width="200">
-</a>
-<br>
-ドット絵風味の横スクロールSTG！
 </dd>
 
 <dd>

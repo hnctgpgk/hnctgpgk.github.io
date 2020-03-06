@@ -16,6 +16,12 @@ relative: ./
 
 <dl>
 
+<dt>2020/3/6</dt>
+<dd>
+<a href="./game/sinkatori/">進化する鳥</a>を公開しました。
+</dd>
+
+
 <dt>2020/2/12</dt>
 <dd>
 About の活動内容に2019年度の活動を追加しました
