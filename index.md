@@ -19,35 +19,15 @@ relative: ./
 
 <dl>
 
-<dt>2020/3/6</dt>
 <dd>
-<a href="./game/sinkatori/">進化する鳥</a>を公開しました。
-</dd>
-
-
-<dt>2020/2/12</dt>
-<dd>
-About の活動内容に2019年度の活動を追加しました
-</dd>
-
-
-<dt>2020/1/18</dt>
-<dd>
-<a href="./game/shx/">shooting-x</a> (2019年度高専祭バージョン) を公開しました。
-</dd>
-
-
-<dt>2019/12/29</dt>
-<dd>
-TOP画像を変更しました。
-</dd>
-
-
-<dt>2019/12/26</dt>
-<dd>
-<a href="./game/teisatuki/">偵察機の災難 〜おぼえてろよ上層部〜</a>を公開しました。
+Yahoo! Boxが廃止されたため現在ゲームがダウンロード出来なくなっています。
 <br>
-<a href="./game/through/">THROUGH</a>を公開しました。
+Google Drive へ順次移行中ですのでもうしばらくお待ち下さい。
+</dd>
+
+<dt>2020/9/16</dt>
+<dd>
+TOP画像(動画)を変更しました。
 </dd>
 
 </dl>
