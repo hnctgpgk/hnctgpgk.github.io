@@ -3,8 +3,11 @@ layout: default
 title: Top - 函館高専ゲームプログラミング研究会
 relative: ./
 ---
+
 <div class="top_image">
-<img src="./img/top20191229.png" alt="TOPイラスト"/>
+<video playsinline controls loop width="600" poster="./img/top20200916.png">
+<source src="./img/top20200916.mp4" type="video/mp4">
+</video>
 </div>
 
 <div class="content">

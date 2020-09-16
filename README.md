@@ -9,7 +9,7 @@ sudo apt install ruby-dev
 sudo gem install bundler  
 sudo gem install jekyll  
 sudo gem install minima  
-jekyll server  
+jekyll server (--host IP)
 
 macOS に jekyll をインストールして実行
 
