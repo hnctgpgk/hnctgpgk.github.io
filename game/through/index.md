@@ -68,12 +68,12 @@ ubuntu 18.04 (64 bit版)
 <h2>～ダウンロード～</h2>
 
 <p>
-<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=0f835489-3e6f-4027-8da0-aa3d730c5aa6&viewtype=detail">
+<a href="https://drive.google.com/uc?export=download&id=1QrCsC64BkDFWNL6qnOjQEiK_f0I2ZlLv">
 Windows版 （最終更新日 2019/12/27) </a>
 </p>
 
 <p>
-<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=1bd963e4-37f4-4018-85b7-1e4fcdcf897a&viewtype=detail">
+<a href="https://drive.google.com/uc?export=download&id=1Evgl9k0EdImwrX4FdtvdcfjpP5qw1dO2">
 ubuntu版 （最終更新日 2019/12/27) </a>
 </p>
 

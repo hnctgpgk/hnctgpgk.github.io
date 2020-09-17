@@ -52,7 +52,8 @@ Windows7以降
 <h2>ダウンロード</h2>
 
 <p>
-<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=e7d91610-a778-49f2-a159-e892de3f65b5&viewtype=detail">ダウンロード（最終更新日 2014/12/22) </a><br>
+<a href="https://drive.google.com/uc?export=download&id=1X2QAjvlxB9Ns1YcQtqYI1A6-JzrYEI51">
+ダウンロード（最終更新日 2014/12/22) </a><br>
 </p>
 
 </div>

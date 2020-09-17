@@ -54,15 +54,18 @@ Unity版: Windows10 以降、macOS Mojave 以降
 <h2>ダウンロード</h2>
 
 <p>
-Unity版 (Win用) <a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=12e6ac25-f546-460e-b790-638bcbd25e12&viewtype=detail">ダウンロード（最終更新日 2019/8/13) </a>
+<a href="https://drive.google.com/uc?export=download&id=15xR0QAYEBytMfuCYdIGmWoe1Tx9AsKLD">
+Unity版 (Win用) ダウンロード（最終更新日 2019/8/13) </a>
 </p>
 
 <p>
-Unity版 (Mac用) <a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=56eb81e2-f5c5-4506-be31-df98cd3a313e&viewtype=detail">ダウンロード（最終更新日 2019/8/13) </a>
+<a href="https://drive.google.com/uc?export=download&id=1bhD4E-dWjCZSkn6cAi_qFayvGS6qAlw2">
+Unity版 (Mac用)  ダウンロード（最終更新日 2019/8/13) </a>
 </p>
 
 <p>
-旧版 (Win用): <a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=dbd7c4b9-9654-4cb3-a478-83b440daa4e6&viewtype=detail">ダウンロード（最終更新日 2015/12/26) </a>
+<a href="https://drive.google.com/uc?export=download&id=1udsiuXLHon9v_gKUIUh6-80z5mLisPz1">
+旧版 (Win用) ダウンロード（最終更新日 2015/12/26) </a>
 </p>
 
 </div>

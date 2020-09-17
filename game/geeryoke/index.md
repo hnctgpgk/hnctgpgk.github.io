@@ -120,7 +120,8 @@ Windows7以降
 <h2>ダウンロード</h2>
 
 <p>
-<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=012f3cbf-b4cb-48c4-a8c3-1545837743da&viewtype=detail">ダウンロード（最終更新日 2014/12/22) </a>
+<a href="https://drive.google.com/uc?export=download&id=1a9Afmm-2Sg8Hoi92kXYuxTZUO6o4yTf5">
+ダウンロード（最終更新日 2014/12/22) </a>
 </p>
 
 </div>

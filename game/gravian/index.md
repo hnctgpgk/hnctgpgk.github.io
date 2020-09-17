@@ -79,7 +79,8 @@ Shift＋ｘ　→　引力<br>
 <h2>ダウンロード</h2>
 
 <p>
-<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=2736e45b-2ce4-4417-ba70-2ece898a25e6&viewtype=detail">ダウンロード（最終更新日 2014/4/19）</a>
+<a href="https://drive.google.com/uc?export=download&id=1yNcLxXmY-ZiDtKEKRX_bfBOTrdap7Ke9">
+ダウンロード（最終更新日 2014/4/19）</a>
 </p>
 
 

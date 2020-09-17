@@ -85,7 +85,8 @@ Windows10 (64bit版)での動作を確認しています。
 <h2>ダウンロード</h2>
 
 <p>
-<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=bdaa08a6-643d-4637-9660-b96910da7ddb&viewtype=detail">Windows版 （最終更新日 2018/5/24) </a>
+<a href="https://drive.google.com/uc?export=download&id=1hoBUS_cLThQp78rExLgEPunWUeXkX2pt">
+Windows版 （最終更新日 2018/5/24) </a>
 </p>
 
 <hr>

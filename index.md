@@ -20,14 +20,18 @@ relative: ./
 <dl>
 
 <dd>
-Yahoo! Boxが廃止されたため現在ゲームがダウンロード出来なくなっています。
+Yahoo! Boxが廃止されたためゲームのファイル置き場を Google Drive に変更しました。
 <br>
-Google Drive へ順次移行中ですのでもうしばらくお待ち下さい。
+もしリンクが切れていたり、違うゲームがダウンロードされたりする場合はお知らせ下さい。
 </dd>
 
 <dt>2020/9/16</dt>
 <dd>
-TOP画像(動画)を変更しました。
+・TOP画像(動画)を変更しました。
+<br>
+・<a href="./other">OTHER</a>に<a href="./other/poster/2020.png">2020年度新人募集ポスター</a>をアップしました。
+<br>
+・<a href="./about">ABOUT</a>を更新しました。
 </dd>
 
 </dl>

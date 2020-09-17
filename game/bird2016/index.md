@@ -68,11 +68,13 @@ BIRD WATCH 2016
 <h2>ダウンロード</h2>
 
 <p>
-<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=1293a6f7-3bcc-424d-ae3a-d2d54e314ce3&viewtype=detail">ダウンロード（最終更新日 2016/11/22) </a>
+<a href="https://drive.google.com/uc?export=download&id=1jA_DGcTzLs7TkswBfT9GxdqwRjtMETf5">
+Windows版（最終更新日 2016/11/22) </a>
 </p>
 
 <p>
-<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=f4ddb6cd-88f5-4b06-8bb1-9c4f211c15cf&viewtype=detail">Linux版 （最終更新日 2016/11/22)</a>
+<a href="https://drive.google.com/uc?export=download&id=1nr_IF1D_SNtV1sLSiCiLikeTylFJmTiR">
+Linux版 （最終更新日 2016/11/22)</a>
 </p>
 
 <p>

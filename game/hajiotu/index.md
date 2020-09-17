@@ -65,10 +65,12 @@ Windows10, Ubuntu16.04 (全て64bit版)での動作を確認しています。
 <h2>ダウンロード</h2>
 
 <p>
-<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=b45cc43c-41bb-4a14-b50e-75bc135ee8b8&viewtype=detail">Windows版 （最終更新日 2017/12/13)</a>
+<a href="https://drive.google.com/uc?export=download&id=1jph_RVUuxmCH6s8vjDlYmnwNqnLdckB5">
+Windows版 （最終更新日 2017/12/13)</a>
 </p>
 <p>
-<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=89304980-7fc2-4ff7-8bc6-c6ad740507c9&viewtype=detail">Linux版 （最終更新日 2017/12/13)</a>
+<a href="https://drive.google.com/uc?export=download&id=1Q-alUWNDx6vNFzV7mmqC2LzRsuT0CPhV">
+Linux版 （最終更新日 2017/12/13)</a>
 </p>
 
 <hr>

@@ -53,11 +53,13 @@ Windows8.1, Windows10, Ubuntu16.04 (64bit版)での動作を確認していま�
 <h3>-ダウンロード-</h3>
 
 <p>
-<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=4cf50e45-d5c7-4d3d-a85d-74e32b3d74b8&viewtype=detail">Windows版 ダウンロード（最終更新日 2016/10/19) </a>
+<a href="https://drive.google.com/uc?export=download&id=1c51IWklwx3i4W8sh1D4jPX5mLFRnTwcN">
+Windows版 ダウンロード（最終更新日 2016/10/19) </a>
 </p>
 
 <p>
-<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=44f7f7ec-020d-4e8e-b81c-e4a2b761fc67&viewtype=detail">Linux版 ダウンロード（最終更新日 2016/10/19) </a>
+<a href="https://drive.google.com/uc?export=download&id=1p5oUxW7DpNBcsTDR1BeZcmS94KA5g-LJ">
+Linux版 ダウンロード（最終更新日 2016/10/19) </a>
 </p>
 
 <hr>

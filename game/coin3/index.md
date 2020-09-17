@@ -95,15 +95,18 @@ ubuntu 18.04 (64bit版)
 <h2>ダウンロード</h2>
 
 <p>
-<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=b5c3440d-c80a-4f07-8c6f-264e8679ec8e&viewtype=detail">Windows版 （最終更新日 2018/12/22) </a>
+<a href="https://drive.google.com/uc?export=download&id=14GZlKxEL9TPT8mcpR9LGV66whHSK5jiY">
+Windows版 （最終更新日 2018/12/22) </a>
 </p>
 
 <p>
-<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=ed8d32f4-4cfb-4ec7-adde-c01a759ccca1&viewtype=detail">Mac版 （最終更新日 2018/12/22) </a>
+<a href="https://drive.google.com/uc?export=download&id=1HgW1l_hUk7r50M2QW6OVrsTWGTqFJI-3">
+Mac版 （最終更新日 2018/12/22) </a>
 </p>
 
 <p>
-<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=1ea5ab8a-0cd5-4252-90e4-1a3004ec8689&viewtype=detail">ubuntu版 （最終更新日 2018/12/22) </a>
+<a href="https://drive.google.com/uc?export=download&id=14SIcMleTWXHclJnIBPcblJlSuh7NZOKz">
+ubuntu版 （最終更新日 2018/12/22) </a>
 </p>
 
 

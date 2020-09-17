@@ -57,7 +57,8 @@ BIRD WATCH
 <h2>ダウンロード</h2>
 
 <p>
-<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=2d154734-af97-4e40-bea4-44c4b6535b39&viewtype=detail">ダウンロード（最終更新日 2015/12/26) </a>
+<a href="https://drive.google.com/uc?export=download&id=1xXDuiflsb0luWmz6xapZyswUwbnxXj9U">
+ダウンロード（最終更新日 2015/12/26) </a>
 </p>
 
 </div>

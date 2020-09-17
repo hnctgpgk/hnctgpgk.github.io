@@ -131,15 +131,15 @@ Windows10, macOS Catalina, Ubuntu18.04 （すべて64bit版） での動作を�
 </p>
 
 <p>
-<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=341342ca-bff8-49fa-b302-6bb58eae7fc4&viewtype=detail">Windows版 （最終更新日 2020/1/18) </a>
+<a href="https://drive.google.com/uc?export=download&id=1tIyJ5IFzJp7M65G2RR8H2EACwIk8e4OC">Windows版 （最終更新日 2020/1/18) </a>
 </p>
 
 <p>
-<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=3544eab5-ab9f-4025-98af-a0ee219628a8&viewtype=detail">mac OS版 （最終更新日 2020/1/18) </a>
+<a href="https://drive.google.com/uc?export=download&id=1sD-d9uK1wbr2do-4iUfa4Y4CxbrcZtA3">mac OS版 （最終更新日 2020/1/18) </a>
 </p>
 
 <p>
-<a href="https://box.yahoo.co.jp/guest/viewer?sid=box-l-26oalqoyfj6fl63uanefeuz3se-1001&uniqid=b496da7f-2717-4fc8-923f-5e463175e6a5&viewtype=detail">Linux版 （最終更新日 2020/1/18) </a>
+<a href="https://drive.google.com/uc?export=download&id=14A0K2qmlVfFL4PU8rSj1SFHkrC0Ss1PK">Linux版 （最終更新日 2020/1/18) </a>
 </p>
 
 <hr>
