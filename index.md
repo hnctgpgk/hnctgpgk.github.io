@@ -8,6 +8,8 @@ relative: ./
 <video playsinline controls loop width="600" poster="./img/top20200916.png">
 <source src="./img/top20200916.mp4" type="video/mp4">
 </video>
+<br>
+BGMは作曲者である<a href="https://soundcloud.com/fusq/perfume">fusq</a>様から許諾を得て使用しています
 </div>
 
 <div class="content">

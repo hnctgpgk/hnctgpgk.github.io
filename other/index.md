@@ -22,6 +22,8 @@ relative: ../
 <dd>
 2020年<br>
 <a href="./topimg/2020-1.mp4"><img src="./topimg/2020-1-s.png"></a>
+<br>
+BGMは作曲者である<a href="https://soundcloud.com/fusq/perfume">fusq</a>様から許諾を得て使用しています
 </dd>
 
 <dd>
