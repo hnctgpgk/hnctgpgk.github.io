@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 過去の更新内容 - 函館高専ゲームプログラミング研究会
+title: 過去のお知らせ - 函館高専ゲームプログラミング研究会
 relative: ./
 ---
 
@@ -8,7 +8,7 @@ relative: ./
 <div class="main">
 
 <p class="title">
-過去の更新内容
+過去のお知らせ
 </p>
 
 <dl>

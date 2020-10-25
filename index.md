@@ -16,7 +16,7 @@ BGMは作曲者である<a href="https://soundcloud.com/fusq/perfume">fusq</a>�
 <div class="main">
 
 <p class="title">
-更新履歴
+お知らせ
 </p>
 
 <dl>
@@ -25,6 +25,11 @@ BGMは作曲者である<a href="https://soundcloud.com/fusq/perfume">fusq</a>�
 Yahoo! Boxが廃止されたためゲームのファイル置き場を Google Drive に変更しました。
 <br>
 もしリンクが切れていたり、違うゲームがダウンロードされたりする場合はお知らせ下さい。
+</dd>
+
+<dt>2020/10/23</dt>
+<dd>
+チーム「函館高専ゲームプログラミング研究会」が<a href="https://inter-high.unity3d.jp/">Unityインターハイ2020</a>の1次審査を通過しました(エントリーNo.42)
 </dd>
 
 <dt>2020/9/16</dt>
@@ -36,10 +41,11 @@ Yahoo! Boxが廃止されたためゲームのファイル置き場を Google Dr
 ・<a href="./about">ABOUT</a>を更新しました。
 </dd>
 
+
 </dl>
 
 <p>
-<a href="./old.html">過去の更新内容</a>
+<a href="./old.html">過去のお知らせ</a>
 </p>
 
 <p class="title">
