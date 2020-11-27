@@ -27,6 +27,11 @@ Yahoo! Boxが廃止されたためゲームのファイル置き場を Google Dr
 もしリンクが切れていたり、違うゲームがダウンロードされたりする場合はお知らせ下さい。
 </dd>
 
+<dt>2020/11/27</dt>
+<dd>
+<a href="./game/aggression/">AGGRESSION</a>を公開しました。
+</dd>
+
 <dt>2020/10/23</dt>
 <dd>
 チーム「函館高専ゲームプログラミング研究会」が<a href="https://inter-high.unity3d.jp/">Unityインターハイ2020</a>の1次審査を通過しました(エントリーNo.42)

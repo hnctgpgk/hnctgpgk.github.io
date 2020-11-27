@@ -17,6 +17,18 @@ relative: ../
 
 <dl>
 
+<dt>2020年度作品</dt>
+
+<dd>
+<a href="./aggression/">
+AGGRESSION
+<br>
+<img src="./aggression/ss1.png" width="200">
+</a>
+<br>
+惑星ハコダテの宇宙人であるあなたが単身地球へ侵攻するゲーム
+</dd>
+
 <dt>2019年度作品</dt>
 
 <dd>
