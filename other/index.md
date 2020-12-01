@@ -69,6 +69,7 @@ BGMは作曲者である<a href="https://soundcloud.com/fusq/perfume">fusq</a>�
 <dt>ポスター</dt>
 
 <dd>
+<a href="./poster/2020-alink.png">2020年度アカデミックリンク2020ブース展示ポスター</a><br>
 <a href="./poster/2020.png">2020年度新人募集ポスター</a><br>
 <a href="./poster/2019.png">2019年度新人募集ポスター</a><br>
 <a href="./poster/2018-alink.png">2018年度アカデミックリンク2018ブース展示ポスター</a><br>

@@ -27,6 +27,11 @@ Yahoo! Boxが廃止されたためゲームのファイル置き場を Google Dr
 もしリンクが切れていたり、違うゲームがダウンロードされたりする場合はお知らせ下さい。
 </dd>
 
+<dt>2020/11/28〜12/20</dt>
+<dd>
+<a href="https://www.cc-hakodate.jp/academiclink-web/">アカデミックリンク2020のブースに<a href="./other/poster/2020-alink.png">ポスター</a>を展示中です</a>
+</dd>
+
 <dt>2020/11/27</dt>
 <dd>
 <a href="./game/aggression/">AGGRESSION</a>を公開しました。
