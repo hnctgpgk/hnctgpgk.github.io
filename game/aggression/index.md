@@ -95,5 +95,9 @@ Copyright (c) 2019-2020 AGGRESSION開発チーム All Rights Reserved.
 ライセンス: <a href="../../other/HGPKLv1.html">HGPKL, Version 1</a>
 </p>
 
+<p>
+ゲーム内で使用している素材について詳細は<a href="./readme.txt">こちら</a>を参照してください。
+</p>
+
 </div>
 </div>
