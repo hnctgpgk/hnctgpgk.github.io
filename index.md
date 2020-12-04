@@ -27,6 +27,14 @@ Yahoo! Boxが廃止されたためゲームのファイル置き場を Google Dr
 もしリンクが切れていたり、違うゲームがダウンロードされたりする場合はお知らせ下さい。
 </dd>
 
+<dt>2020/12/4</dt>
+<dd>
+チーム「函館高専ゲームプログラミング研究会」が<a href="https://inter-high.unity3d.jp/">Unityインターハイ2020</a>の2次審査を通過して本戦への出場が決まりました(エントリーNo.42)
+<br>
+本戦は12月13日(日)13時開始です
+</dd>
+
+
 <dt>2020/11/28〜12/20</dt>
 <dd>
 <a href="https://www.cc-hakodate.jp/academiclink-web/">アカデミックリンク2020のブースに<a href="./other/poster/2020-alink.png">ポスター</a>を展示中です</a>
