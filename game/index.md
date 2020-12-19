@@ -20,6 +20,16 @@ relative: ../
 <dt>2020年度作品</dt>
 
 <dd>
+<a href="./agirl/">
+オートマトンガール.exe
+<br>
+<img src="./agirl/ss1.png" width="200">
+</a>
+<br>
+曲に合わせて、ノーツを処理する音ゲー
+</dd>
+
+<dd>
 <a href="./aggression/">
 AGGRESSION
 <br>

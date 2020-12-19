@@ -45,12 +45,36 @@ relative: ../../
 <h2>～操作方法～</h2>
 
 <p>
-画面遷移：Enterキーで次の画面へ Escキーでゲーム終了
+<b>共通</b>
+</p>
+<p>
+Escキーでゲーム終了
 </p>
 
 <p>
-(以下、曲のプレイ画面について)  
+<b>タイトル画面</b>
+</p>
+<p>
+Enterキーで曲の選択画面へ 
+</p>
+
+<p>
+<b>曲の選択画面</b>
+</p>
+<p>
+マウスで曲を選択
 <br>
+Enterキーで曲のプレイ開始へ
+</p>
+
+<p>
+<b>曲のプレイ画面</b>
+</p>
+<p>
+左下にある「Play」ボタンをマウスでクリックするとゲームが開始します。
+</p>
+
+<p>
 上・中・下の三段にノーツが配置されます。
 <br>
 スライダーが画面を往復するので、ノートと重なったらその段に対応するキーを押します。  
@@ -70,6 +94,14 @@ relative: ../../
 終点が来たら速やかにキーを離します。
 </p>
 
+<p>
+<b>結果画面</b>
+</p>
+<p>
+Enterキーで曲の選択画面へ 
+</p>
+
+
 <hr>
 <h2>～楽曲紹介～</h2>
 
@@ -84,21 +116,20 @@ relative: ../../
 <p>
 <b>Coin Rain</b>
 <br>
-<audio src="./coinrain.mp3" controls>
+<audio src="./coinrain.mp3" controls></audio>
 </p>
 
 <p>
 <b>オートマトンガール.exe</b>
 <br>
-<audio src="./agirl.mp3" controls>
+<audio src="./agirl.mp3" controls></audio>
 </p>
 
 <p>
 <b>Hammer City</b>
 <br>
-<audio src="./hammercity.mp3" controls>
+<audio src="./hammercity.mp3" controls></audio>
 </p>
-
 
 <p>
 Copyright (c) 2020 Ken K, All Rights Reserved.
@@ -143,7 +174,7 @@ setchi様の<a href="https://github.com/setchi/NoteEditor">Note Editor]</a>を�
 Windows 10 (64 bit版)
 </p>
 <p>
-macOS Big Sur 以降 (universal対応)
+macOS Big Sur 以降 (Universal 対応)
 </p>
 <p>
 ubuntu 20.04 (64 bit版) 以降
@@ -153,17 +184,18 @@ ubuntu 20.04 (64 bit版) 以降
 <h2>～ダウンロード～</h2>
 
 <p>
-<a href="https://drive.google.com/uc?export=download&id=1aW3mMJTYNKPVFV1GmgFu5hReZRH_CEs2">
+<a href="https://drive.google.com/uc?export=download&id=1kiwbwtjnaPPldD1zRV2pQwDIMSLh7Zz3">
 Windows版 （最終更新日 2020/12/19) </a>
 </p>
 
 <p>
-<a href="https://drive.google.com/uc?export=download&id=1hgZDQyO03ou92NH-QmMHMkFqC7OJCtt8">
+<a href="https://drive.google.com/uc?export=download&id=1dyajHCk0W9hH1NDI9Xp20ghnSjTL4yDU">
  macOS版 （最終更新日 2020/12/19) </a>
 </p>
 
 <p>
-<a href="https://drive.google.com/uc?export=download&id=1EZ1-c6rH5IaxYG5fSb-ckXch2kCM30bW">
+<a href="
+https://drive.google.com/uc?export=download&id=1ZBd0wq-BmCRrZjS6NGZaRx21t1WXLU0m">
 ubuntu版 （最終更新日 2020/12/19) </a>
 </p>
 
