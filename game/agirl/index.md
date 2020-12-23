@@ -184,19 +184,19 @@ ubuntu 20.04 (64 bit版) 以降
 <h2>～ダウンロード～</h2>
 
 <p>
-<a href="https://drive.google.com/uc?export=download&id=1kiwbwtjnaPPldD1zRV2pQwDIMSLh7Zz3">
-Windows版 （最終更新日 2020/12/19) </a>
+<a href="https://drive.google.com/uc?export=download&id=1HCVDKwAtFFn8PLQiXyx04vFu1JUY4DTa">
+Windows版 （最終更新日 2020/12/23) </a>
 </p>
 
 <p>
-<a href="https://drive.google.com/uc?export=download&id=1dyajHCk0W9hH1NDI9Xp20ghnSjTL4yDU">
- macOS版 （最終更新日 2020/12/19) </a>
+<a href="https://drive.google.com/uc?export=download&id=1IF0dSVXn_BjY59te4PvGYUB1gS3O9R_E">
+macOS版 （最終更新日 2020/12/23) </a>
 </p>
 
 <p>
 <a href="
-https://drive.google.com/uc?export=download&id=1ZBd0wq-BmCRrZjS6NGZaRx21t1WXLU0m">
-ubuntu版 （最終更新日 2020/12/19) </a>
+https://drive.google.com/uc?export=download&id=1rZgXdH2c6WIJMZCtA10N4sF-z5hucQ6N">
+ubuntu版 （最終更新日 2020/12/23) </a>
 </p>
 
 <hr>
