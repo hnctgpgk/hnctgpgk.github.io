@@ -189,7 +189,7 @@ Windows版 （最終更新日 2020/12/23) </a>
 </p>
 
 <p>
-<a href="https://drive.google.com/uc?export=download&id=1IF0dSVXn_BjY59te4PvGYUB1gS3O9R_E">
+<a href="https://drive.google.com/uc?export=download&id=1jFS_wI1iuU1VcRoEwqilUF1vsPH2QaCR">
 macOS版 （最終更新日 2020/12/23) </a>
 </p>
 
