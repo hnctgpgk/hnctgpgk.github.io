@@ -180,6 +180,17 @@ macOS Big Sur 以降 (Universal 対応)
 ubuntu 20.04 (64 bit版) 以降
 </p>
 
+<p>
+(注意)
+</p>
+<p>
+macOS 版で、もし「壊れているため開けません。ゴミ箱に入れる必要があります。」と表示されて起動できない場合は、ターミナルを開き、アプリを展開したフォルダに移動してから以下のコマンドを実行して下さい
+</p>
+<p>
+$ xattr -rc AutomatonGirl.app
+</p>
+
+
 <hr>
 <h2>～ダウンロード～</h2>
 
@@ -190,7 +201,7 @@ Windows版 （最終更新日 2020/12/23) </a>
 
 <p>
 <a href="https://drive.google.com/uc?export=download&id=1jFS_wI1iuU1VcRoEwqilUF1vsPH2QaCR">
-macOS版 （最終更新日 2020/12/23) </a>
+macOS版 （最終更新日 2020/12/23)  </a>
 </p>
 
 <p>

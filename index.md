@@ -29,6 +29,12 @@ Yahoo! Boxが廃止されたためゲームのファイル置き場を Google Dr
 
 <dt>2020/12/19</dt>
 <dd>
+<a href="./game/WAR/">WE ARE RIGHT</a>を公開しました。
+</dd>
+
+
+<dt>2020/12/19</dt>
+<dd>
 <a href="./game/agirl/">オートマトンガール.exe</a>を公開しました。
 </dd>
 

@@ -20,6 +20,17 @@ relative: ../
 <dt>2020年度作品</dt>
 
 <dd>
+<a href="./WAR/">
+WE ARE RIGHT
+<br>
+<img src="./WAR/ss1.png" width="200">
+</a>
+<br>
+出てくる敵を倒すというシンプルなシューティングゲーム
+</dd>
+
+
+<dd>
 <a href="./agirl/">
 オートマトンガール.exe
 <br>
