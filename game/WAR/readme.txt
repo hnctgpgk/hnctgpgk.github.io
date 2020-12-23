@@ -22,7 +22,8 @@ https://umipla.com/soundeffect/1051
 https://taira-komori.jpn.org/sound/attack01/hitting1.mp3
 レーザー発射音
 https://taira-komori.jpn.org/sound/arms01/laser_beam.mp3
-
+3面のボスのレーザー発射音
+https://soundeffect-lab.info/sound/battle/battle2.html
 
 HPバー(プレイヤー)・HPバー(敵)・エネルギーバー画像
 http://yamamototaro.blogspot.com/2017/10/hp.html
@@ -54,3 +55,5 @@ https://assetstore.unity.com/packages/2d/textures-materials/milky-way-skybox-940
 https://assetstore.unity.com/packages/vfx/particles/war-fx-5669
 弾
 https://assetstore.unity.com/packages/3d/props/weapons/rockets-missiles-bombs-cartoon-low-poly-pack-73141
+照準
+https://www.ac-illust.com/main/detail.php?id=2177233&word=%E3%83%AD%E3%83%83%E3%82%AF%E3%82%AA%E3%83%B3%28%E8%B5%A4%29#
