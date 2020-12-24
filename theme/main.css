@@ -27,6 +27,13 @@ font-size: 36px;
 line-height: 36px;
 }
 
+header div{
+display: block;
+background-image: url('./logo-title.png');
+background-repeat: no-repeat;
+background-position: 145px 1px;
+}
+
 div.main {
 overflow: hidden;
 margin: 0px;

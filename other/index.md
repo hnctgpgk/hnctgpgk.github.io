@@ -17,6 +17,13 @@ relative: ../
 
 <dl>
 
+<dt>公式ロゴマーク</dt>
+
+<dd>
+<a href="./logo.png"><img alt="公式ロゴマーク" src="./logo.png" width="200"></a>
+※ クリックで拡大します
+</dd>
+
 <dt>過去のTOPイラスト</dt>
 
 <dd>
