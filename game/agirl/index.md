@@ -195,19 +195,19 @@ $ xattr -rc AutomatonGirl.app
 <h2>～ダウンロード～</h2>
 
 <p>
-<a href="https://drive.google.com/uc?export=download&id=1HCVDKwAtFFn8PLQiXyx04vFu1JUY4DTa">
-Windows版 （最終更新日 2020/12/23) </a>
+<a href="https://drive.google.com/uc?export=download&id=1X_HlhvPdsx-3RsnIW92XO2Ef53GZmwO7">
+Windows版 （最終更新日 2020/12/25) </a>
 </p>
 
 <p>
-<a href="https://drive.google.com/uc?export=download&id=1jFS_wI1iuU1VcRoEwqilUF1vsPH2QaCR">
-macOS版 （最終更新日 2020/12/23)  </a>
+<a href="https://drive.google.com/uc?export=download&id=1ZaIpAy72h7cp49Rdr7qwksxWu2DUltpO">
+macOS版 （最終更新日 2020/12/25)  </a>
 </p>
 
 <p>
 <a href="
-https://drive.google.com/uc?export=download&id=1rZgXdH2c6WIJMZCtA10N4sF-z5hucQ6N">
-ubuntu版 （最終更新日 2020/12/23) </a>
+https://drive.google.com/uc?export=download&id=1wQx3H-3h-XZlqeNv2_H3QrSGT33LRxiz">
+ubuntu版 （最終更新日 2020/12/25) </a>
 </p>
 
 <hr>
