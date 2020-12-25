@@ -200,7 +200,7 @@ Windows版 （最終更新日 2020/12/25) </a>
 </p>
 
 <p>
-<a href="https://drive.google.com/uc?export=download&id=1ZaIpAy72h7cp49Rdr7qwksxWu2DUltpO">
+<a href="https://drive.google.com/uc?export=download&id=1SHvLD4JIjOuRl-fqBSIbCnKZ7Qk_qyct">
 macOS版 （最終更新日 2020/12/25)  </a>
 </p>
 
